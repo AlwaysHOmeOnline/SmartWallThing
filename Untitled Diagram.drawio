@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T15:34:30.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="rThCmeRtMV-Pc2Z6Q4j9" version="24.4.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-10T16:52:52.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kBumOYfOrjZLjEuEzbTc" version="24.5.2" type="github" pages="8">
   <diagram name="Architecture" id="3tNNM1X5z_LQ3v7Zmcsf">
-    <mxGraphModel dx="1160" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,10 +134,43 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;Input Allocation Module&lt;/b&gt;" link="data:page/id,Kv6Zesl3vfpE7PgrDi9m" id="EXifMVPDh0jxDoU_YdpL-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
             <mxGeometry x="93" y="494" width="172" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&lt;b&gt;Occupancy Sensing Module&lt;/b&gt;" link="data:page/id,Kv6Zesl3vfpE7PgrDi9m" id="rpN6qTfHu_thgZuIoWep-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+            <mxGeometry x="339" y="545" width="172" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="rpN6qTfHu_thgZuIoWep-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rpN6qTfHu_thgZuIoWep-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267" y="670.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;b&gt;AIQ Module&lt;/b&gt;" link="data:page/id,Kv6Zesl3vfpE7PgrDi9m" id="rpN6qTfHu_thgZuIoWep-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+            <mxGeometry x="339" y="641" width="172" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="rpN6qTfHu_thgZuIoWep-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366.0000000000001" y="775.872957746479" as="sourcePoint" />
+            <mxPoint x="267" y="680.13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="304" y="776.38" />
+              <mxPoint x="304" y="680.38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;b&gt;Smoke Detection Module&lt;/b&gt;" link="data:page/id,Kv6Zesl3vfpE7PgrDi9m" id="rpN6qTfHu_thgZuIoWep-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+            <mxGeometry x="339" y="736" width="172" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="rpN6qTfHu_thgZuIoWep-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rpN6qTfHu_thgZuIoWep-3" target="OaNki6vrqeqxyBiYRJJm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
