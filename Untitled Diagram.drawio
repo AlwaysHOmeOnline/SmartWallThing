@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T16:52:52.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kBumOYfOrjZLjEuEzbTc" version="24.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-10T17:00:41.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Kmks_Pnz3uq-fnZnx8Us" version="24.5.2" type="github" pages="8">
   <diagram name="Architecture" id="3tNNM1X5z_LQ3v7Zmcsf">
     <mxGraphModel dx="1009" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -153,23 +153,14 @@
             <mxGeometry x="339" y="641" width="172" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="rpN6qTfHu_thgZuIoWep-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="366.0000000000001" y="775.872957746479" as="sourcePoint" />
-            <mxPoint x="267" y="680.13" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="304" y="776.38" />
-              <mxPoint x="304" y="680.38" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="&lt;b&gt;Smoke Detection Module&lt;/b&gt;" link="data:page/id,Kv6Zesl3vfpE7PgrDi9m" id="rpN6qTfHu_thgZuIoWep-5">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="339" y="736" width="172" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="rpN6qTfHu_thgZuIoWep-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rpN6qTfHu_thgZuIoWep-3" target="OaNki6vrqeqxyBiYRJJm-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rpN6qTfHu_thgZuIoWep-10" value="&lt;b&gt;PIR Sesnor&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="587" y="557.5" width="100.33" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="rpN6qTfHu_thgZuIoWep-11" value="&lt;b&gt;Air quality sensor&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="587" y="653.5" width="100.33" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
