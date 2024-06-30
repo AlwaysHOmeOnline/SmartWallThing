@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T09:44:39.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="OwRYxrYa2rs6xswbJjZC" version="24.6.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-30T11:52:43.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="JKxJ21U3bVM7f454GgLZ" version="24.5.2" type="github" pages="8">
   <diagram name="Architecture" id="3tNNM1X5z_LQ3v7Zmcsf">
-    <mxGraphModel dx="1831" dy="817" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1160" dy="702" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
             <mxGeometry x="178" y="570" width="81" height="26" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;Input Allocation Module&lt;/b&gt;" link="data:page/id,Kv6Zesl3vfpE7PgrDi9m" id="EXifMVPDh0jxDoU_YdpL-1">
+        <UserObject label="&lt;b&gt;Hardware Allocation Module&lt;/b&gt;" link="data:page/id,Kv6Zesl3vfpE7PgrDi9m" id="EXifMVPDh0jxDoU_YdpL-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
             <mxGeometry x="93" y="494" width="172" height="60" as="geometry" />
           </mxCell>
