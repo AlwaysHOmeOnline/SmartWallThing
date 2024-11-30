@@ -576,16 +576,17 @@
         <mxCell id="Tqrooi8KXNfOaJ4p9aSY-115" value="GPIO Output Trigger" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="860" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tqrooi8KXNfOaJ4p9aSY-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tqrooi8KXNfOaJ4p9aSY-124" target="Tqrooi8KXNfOaJ4p9aSY-126">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="946" />
-              <mxPoint x="680" y="1060" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Tqrooi8KXNfOaJ4p9aSY-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tqrooi8KXNfOaJ4p9aSY-126" target="Tqrooi8KXNfOaJ4p9aSY-111">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqrooi8KXNfOaJ4p9aSY-129" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tqrooi8KXNfOaJ4p9aSY-124" target="Tqrooi8KXNfOaJ4p9aSY-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="1060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
