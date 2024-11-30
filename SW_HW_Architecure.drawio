@@ -558,6 +558,9 @@
         <mxCell id="Tqrooi8KXNfOaJ4p9aSY-124" value="UPD REQ&#xa;POS, CMD, LEV, STATE" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Tqrooi8KXNfOaJ4p9aSY-99">
           <mxGeometry x="19" y="307.5" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tqrooi8KXNfOaJ4p9aSY-130" value="LED Strip Updt.&#xa;Req" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="Tqrooi8KXNfOaJ4p9aSY-99">
+          <mxGeometry x="19" y="151" width="200" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Tqrooi8KXNfOaJ4p9aSY-109" value="Send Module Status" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="940" width="200" height="60" as="geometry" />
         </mxCell>
